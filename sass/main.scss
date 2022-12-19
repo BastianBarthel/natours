@@ -1,14 +1,5 @@
-@import "abstracts/functions";
-@import "abstracts/maxins";
-@import "abstracts/variables";
-
-@import "base/animations";
-@import "base/base";
-@import "base/typography";
-@import "base/utilities";
-
-@import "components/button";
-
-@import "layout/header";
-
-@import "pages/home";
+@use "abstracts";
+@use "base";
+@use "components";
+@use "layout";
+@use "pages";
