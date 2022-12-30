@@ -75,7 +75,7 @@
     border-radius: 50%;
 
     &::after {
-      @include center;
+      @include absCenter;
       content: "";
       height: 1.3rem;
       width: 1.3rem;

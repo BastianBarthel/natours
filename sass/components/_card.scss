@@ -164,7 +164,7 @@
 
   // Backside Styling
   &__cta {
-    @include center;
+    @include absCenter;
     width: 90%;
     text-align: center;
   }
